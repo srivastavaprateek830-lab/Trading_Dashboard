@@ -1,0 +1,79 @@
+# fno_watchlist.txt
+# One symbol per line - these are searched against Dhan's instrument master.
+# IMPORTANT: NSE reviews the F&O stock list roughly every 6 months (stocks get
+# added/removed). This is a STARTER list of well-known, historically liquid
+# F&O names to get you going - verify it against NSE's current official F&O
+# list (or Dhan's own "Futures Stocks List" page) before relying on it, and
+# update this file whenever NSE revises the list.
+
+RELIANCE
+TCS
+HDFCBANK
+ICICIBANK
+INFY
+SBIN
+KOTAKBANK
+AXISBANK
+LT
+ITC
+HINDUNILVR
+BAJFINANCE
+BAJAJFINSV
+ADANIENT
+ADANIPORTS
+TATAMOTORS
+TATASTEEL
+MARUTI
+SUNPHARMA
+TITAN
+ULTRACEMCO
+NTPC
+POWERGRID
+ONGC
+COALINDIA
+HDFCAMC
+HDFCLIFE
+SBILIFE
+INDUSINDBK
+BANDHANBNK
+FEDERALBNK
+IDFCFIRSTB
+PNB
+BANKBARODA
+CANBK
+AUBANK
+CHOLAFIN
+MUTHOOTFIN
+SHRIRAMFIN
+PFC
+RECLTD
+LICHSGFIN
+JIOFIN
+M&M
+MAHINDCIE
+TATACONSUM
+NESTLEIND
+BRITANNIA
+DIVISLAB
+CIPLA
+DRREDDY
+APOLLOHOSP
+BHARTIARTL
+VEDL
+JSWSTEEL
+HINDALCO
+GRASIM
+DLF
+GODREJPROP
+OBEROIRLTY
+TRENT
+DMART
+ZOMATO
+PAYTM
+NAUKRI
+INDIGO
+PIDILITIND
+ASIANPAINT
+HAVELLS
+DIXON
+POLYCAB
